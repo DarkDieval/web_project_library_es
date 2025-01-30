@@ -60,12 +60,14 @@
   line-height: 76px;
   font-weight: 500;
   margin-top: 128px;
+  max-width: 635px;
 }
 
 .header__description {
   font-size: 20px;
   line-height: 30px;
   margin-top: 32px;
+  max-width: 515px;
 }
 
 .header__image {
