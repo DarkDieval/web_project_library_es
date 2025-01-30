@@ -59,11 +59,13 @@
   font-size: 62px;
   line-height: 76px;
   font-weight: 500;
+  margin-top: 128px;
 }
 
 .header__description {
   font-size: 20px;
   line-height: 30px;
+  margin-top: 32px;
 }
 
 .header__image {
