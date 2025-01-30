@@ -120,7 +120,7 @@
   line-height: 30px;
   font-weight: 400;
   color: #ffffff;
-  margin: 68px 68px 68px 68px;
+  margin-bottom: 68px;
 }
 
 .staff__cards {
@@ -128,7 +128,7 @@
   margin: auto;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: space-between;
   gap: 40px;
   list-style-type: none;
   padding-left: 0;
