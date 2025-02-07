@@ -377,12 +377,14 @@
   display: flex;
   flex-direction: column;
   margin-left: auto;
+  gap: 20px;
 }
 
 .footer__column_content_social {
   display: flex;
   flex-direction: column;
   margin-left: 80px;
+  gap: 20px;
 }
 
 .footer__logo {
@@ -402,6 +404,9 @@
 }
 
 .footer__list-item {
+  list-style: none;
+  position: relative;
+  margin-bottom: 16px;
 }
 
 .footer__column-link {
@@ -410,7 +415,10 @@
 }
 
 .footer__social-icon {
+  height: 16px;
+  width: 16px;
 }
 
 .footer__copyright {
+  padding-top: 100px;
 }
